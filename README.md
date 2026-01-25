@@ -10,7 +10,7 @@ IEA-PC: Inverted Electric Archithecture to Positive Conversion
 about it:
 IEA-PC is a BJT based family logic, it works by using negative logic and converts the negative outputs to positive ones.
 It was born for personal need of reliable and space efficient logic gates able to work in a circuit (uses NPN and PNP transistors to work, PNP transistors will be used in future, currently only NPN transistors are being used)
-and be fast and produce less heat possible as to not generate noise from temperature, it is independent from RTL or TTL, ECL or CML, where static power usage is high, 
+and to be fast and to produce less heat possible as to not generate noise created by temperature, it is independent from RTL or TTL, ECL or CML, where static power usage is high, 
 while in IEA-PC is low thanks to it requiring external inputs to open paths for electrons.
 Uses natural flow of electricity instead of forcing it through the transistors, lowering the generated tension and heat produced by the circuit.
 

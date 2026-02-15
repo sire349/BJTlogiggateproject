@@ -20,7 +20,7 @@ tests made:
 I personally tested a full adder with IEA-PC logic gates at 2-3Hz for 20s on a dusty breadboard near a phone (these conditions are a stress test for the circuit, I prefer to run the circuit in harsh conditions to verify reliability),
 the circuit did not fail, it maintained its integrity and boolean logic, showing functional logic gates in real life testing
 rather than simulated only.
-LTspice (Windows 10 64bit) is currently being used to test gates at faster speeds reaching GHz.
+LTspice (Windows 10 64bit) is currently being used to test gates at faster speeds reaching MHz.
 
 
 
@@ -35,10 +35,10 @@ LICENSE: Legal protections under the CERN Open Hardware License
 
 
 goals (Hack club| AMD Blueprint):
-phase 1: achieve higher GHz speeds on LTspice with effective low power usage with low temperature increase.
+phase 1: achieve higher MHz speeds on LTspice with effective low power usage with low temperature increase.
 
 
-phase 2: design a high-speed PCB to verify real world capacity at max 5GHz. (Initial tests will be run initially at MHz and only after at GHz)
+phase 2: design a high-speed PCB to verify real world capacity at max 10MHz. (Initial tests will be run initially at KHz and only after at MHz)
 
 
 

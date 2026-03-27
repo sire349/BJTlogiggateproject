@@ -17,7 +17,8 @@ Designing a working PCB
 Step3
 Having a working PCB to then upgrade it
 
-
+BOM link
+https://github.com/sire349/BJTlogiggateproject/blob/main/bom.csv
 
 
 
